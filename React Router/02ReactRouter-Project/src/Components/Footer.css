@@ -1,0 +1,15 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(215, 227, 227);
+}
+.Div1{
+   display: flex;
+   justify-content: space-evenly;  
+}
+.list{
+    display: grid;
+    grid-template-rows: 30px 30px 30px;
+    grid-template-columns:max-content max-content max-content;
+    gap:10px;
+}

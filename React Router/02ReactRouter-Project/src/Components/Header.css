@@ -1,0 +1,32 @@
+.maindiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navlink li{
+    list-style-type: none;
+}
+.navlink ul{
+    display:flex ;
+    gap:5px;
+}
+
+.active-link:visited{
+    color:rgb(166, 21, 21);
+}
+.active-link:hover{
+    color:rgb(21, 33, 166);
+}
+.active-link{
+    text-decoration: none;
+}
+.notActiveLink{
+    text-decoration: none;
+}
+.lastdiv{
+    display: flex;
+    gap:10px;
+}
+button{
+    height:20px;
+    margin-top: 14px;
+}

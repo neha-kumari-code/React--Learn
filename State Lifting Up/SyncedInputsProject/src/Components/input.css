@@ -1,0 +1,8 @@
+input{
+    height:25px;
+}
+label{
+    font-weight: bolder;
+    font-size: larger;
+    margin-right: 3px;
+}
